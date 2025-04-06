@@ -1,2 +1,2 @@
 This is a very basic custom alert
-🔗 [Live Demo](custom-alert2.vercel.app)staged
+🔗 [Live Demo](https://custom-alert2.vercel.app/)
